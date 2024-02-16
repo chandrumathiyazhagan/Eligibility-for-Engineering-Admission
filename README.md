@@ -3,8 +3,10 @@
 To write a C# program to check whether the student is eligibile for the engineering admission
 
 ## Algorithm:
+
 ### Step1: 
 Get the maths, chemistry and physics marks from the user using ReadLine().
+
 ### Step2: 
 Calculate the sum of all three subjects and check whether the sum is greater than and equal to 180
 
@@ -20,6 +22,7 @@ Get the output
 ## Program:
 
 NAME: M.CHANDRU
+
 REG NO: 212222230026
 
 ```python
@@ -68,5 +71,5 @@ namespace EngineeringAdmission
 ![Screenshot 2024-02-16 205458](https://github.com/chandrumathiyazhagan/Eligibility-for-Engineering-Admission/assets/119393023/d231d458-5dac-499a-8ef1-d6316e1cef98)
 
 ## Result:
-Thus the above C# program to check the eligibility of engineering admission is successfully executed
+Thus the above C# program to check the eligibility of engineering admission is successfully executed.
 
